@@ -1,4 +1,4 @@
-# Sourrvielance — a tiny, friendly link collector
+# Sourrvielance
 
 
 
