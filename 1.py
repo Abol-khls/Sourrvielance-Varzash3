@@ -51,7 +51,7 @@ def download_image(url):
         active_links[url] += 1
         for _ in range(5):
             if active_links[url] != 5:
-                img_list = dom.xpath('/html/body/div/div[1]/div/div/div[2]/div[2]/div[2]/div/img/@src')
+                img_list = dom.xpath('/html/body/div/div[1]/div/div/div[2]/div[3]/div[2]/div/img/@src')
                 if img_list:
                     img = img_list[0]
                     name = img.strip().split("/")[-1].split(".")[0]
