@@ -151,7 +151,7 @@ Varzesh3 is one of the most popular sports news websites in Iran, providing up-t
 Run the following command in your terminal (Windows, macOS, or Linux):
 
 ```sh
-git clone https://github.com/Abol-khls/Get-Links-Frome-Varzash3.git
+git clone https://github.com/Abol-khls/Sourrvielance-Varzash3.git
 cd Get-Links-Frome-Varzash3
 ```
 
@@ -297,7 +297,7 @@ Contributions, bug reports, and suggestions are welcome! To contribute:
 For questions, feedback, or collaboration, please contact:
 
 - **GitHub:** [Abol-khls](https://github.com/Abol-khls)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** (abolfazldehghanpoorr@gmail,com)
     - Make sure the `images/` folder exists and is writable.
     - Check your internet connection.
     - The Varzesh3 site structure may have changed; inspect the XPath in the script if needed.
