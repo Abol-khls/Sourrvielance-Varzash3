@@ -245,7 +245,6 @@ python3 1.py
   - Change the `images/` folder path in the script if you want images saved elsewhere.
 
 ---
-    ```
 - Downloaded images will appear in the `images/` folder, named after their article ID.
 
 
