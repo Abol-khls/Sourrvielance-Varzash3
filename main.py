@@ -80,7 +80,7 @@ def download_image(url):
         with open("downloaded_links.txt", "w", encoding="utf-8") as f_dl:
             f_dl.writelines(f"{lnk}\n" for lnk in downloaded)
 
-# ---- Main Loop ----
+
 start_time = time.time()
 download_timer = 0
 last_fetch_time = time.time()
