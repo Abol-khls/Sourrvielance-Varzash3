@@ -25,6 +25,15 @@ This little script quietly polls the Varzesh3 "most visited" news API and saves 
 
 1. Make a virtual environment and activate it.
 
+##  Research Paper
+
+This project is presented and discussed in the following research paper:
+
+[**Read the Research Paper**]()
+
+---
+
+
 ## Installation
 
 
