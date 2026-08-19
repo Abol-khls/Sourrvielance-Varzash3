@@ -29,7 +29,7 @@ This little script quietly polls the Varzesh3 "most visited" news API and saves 
 
 This project is presented and discussed in the following research paper:
 
-[**Read the Research Paper**]()
+[**Read the Research Paper**](https://medium.com/@abolfazldehghanpoorr/building-a-resilient-python-image-scraper-bc64e31da1cb?sharedUserId=abolfazldehghanpoorr)
 
 ---
 
